@@ -1,4 +1,2 @@
-# REDMODO
-redmodo web app
-
-use npm start dev in the folder which has the server file.
+# ReactButtonExample
+React js on button click navigates to a new page using History
