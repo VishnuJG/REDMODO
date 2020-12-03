@@ -1,0 +1,16 @@
+.blog-post_display{
+    border: 1px solid white;
+    margin: 10px;
+    padding-left: 20px;
+    background-color: #e9cbd0d2;
+}
+.form-input{
+    margin: 20px;
+    display: flex;
+}
+.caution{
+    color: rgb(236, 203, 11);
+}
+button{
+    color:red;
+}

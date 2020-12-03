@@ -1,0 +1,27 @@
+.blog-post_display{
+    border: 1px solid white;
+    margin: 10px;
+    padding-left: 20px;
+    background-color: #e9cbd0d2;
+}
+.form-submit{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.form-input{
+    margin: 20px;
+    display: flex;
+}
+.caution{
+    color: rgb(236, 203, 11);
+}
+button{
+    background-color: #ffe600;
+  color: rgb(252, 8, 102);
+  cursor: pointer;
+  border-radius: 0.25rem;
+  line-height: 1.5;
+  font-size: 1rem;
+  outline:none;
+}
